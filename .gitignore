@@ -1,0 +1,5 @@
+excel2pandas-env/
+__pycache__/
+*.pyc
+.env
+
